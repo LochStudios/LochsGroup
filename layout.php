@@ -20,7 +20,7 @@ function uuidv4() {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo htmlspecialchars($title, ENT_QUOTES, 'UTF-8'); ?></title>
-    <link rel="icon" href="logo-icon.png" type="image/png" />
+    <link rel="icon" href="4803712.png" type="image/png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
@@ -32,7 +32,7 @@ function uuidv4() {
 <nav class="navbar is-fixed-top modern-navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php">
-            <img src="logo-icon.png" alt="Loch's Group Logo" style="max-height: 38px;">
+            <img src="4803712.png" alt="Loch's Group Logo" style="max-height: 38px;">
         </a>
         <button class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNav">
             <span aria-hidden="true"></span>
@@ -83,7 +83,7 @@ function uuidv4() {
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column">
-                    <img src="logo-icon.png" alt="Loch's Group" style="max-height: 60px; margin: 0 auto 1rem;">
+                    <img src="4803712.png" alt="Loch's Group" style="max-height: 60px; margin: 0 auto 1rem;">
                 </div>
             </div>
             <div class="columns">

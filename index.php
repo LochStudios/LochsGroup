@@ -12,7 +12,7 @@ ob_start();
             <div class="columns is-vcentered">
                 <div class="column is-half">
                     <div class="glass-card p-6">
-                        <img src="logo-main.png" alt="Loch's Group" style="max-width: 100%; height: auto;">
+                        <img src="4803721.png" alt="Loch's Group" style="max-width: 100%; height: auto;">
                     </div>
                 </div>
                 <div class="column is-half">
